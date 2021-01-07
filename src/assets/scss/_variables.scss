@@ -1,0 +1,31 @@
+// Variable overrides
+
+$theme-colors: (
+  'primary': #99A525,
+  "danger": #ff4136,
+  "anaranjado": #fd7e14
+);
+
+//Sidebar
+
+$sidebar-width: 240px;
+$sidebar-bg: #99A525; //color fondo
+$sidebar-minimizer-bg: #99A525; //parde de abajo del sidebar
+
+$sidebar-nav-link-active-color: white;
+$sidebar-nav-link-active-bg: #898989;
+$sidebar-nav-link-active-icon-color: white;
+
+$sidebar-nav-link-icon-color: white;
+$sidebar-nav-link-bg: #A7BB3C;
+
+$sidebar-nav-dropdown-color: white;  //Color texto cuando se hace dropdown
+$sidebar-nav-dropdown-bg: red; //cuadrado abajo del ultimo link en modo minimize
+
+$sidebar-nav-link-hover-color: #white;  //Texto para los padres con hover
+
+$sidebar-nav-dropdown-indicator: white;
+
+$footer-color: black;
+$footer-bg: white;
+
